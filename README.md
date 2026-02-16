@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-here/logo.png" alt="Insta-Clone Logo" width="200"/>
-  <h1 align="center">📸 Insta-Clone App</h1>
+  <img src="https://github.com/Suryaprasath11/Insta-clone-app/blob/main/src/assets/Instagram_logo.png" alt="Insta-Clone Logo" width="200"/>
+  <h1 align="center">📸 Minimal Insta-Clone App</h1>
   <p align="center">
     A sleek Instagram clone frontend built using React + Vite — using static JSON datasets for demo UI.
   </p>
@@ -81,4 +81,4 @@ It will open a live preview at a local development server.
 You’ll see the Instagram-style UI in your browser! 🔥
 
 📸 Screenshots
-<div align="center"> <img src="https://user-images.githubusercontent.com/your-image-here/screenshot1.png" width="300" alt="Insta Clone Screenshot 1" /> <img src="https://user-images.githubusercontent.com/your-image-here/screenshot2.png" width="300" alt="Insta Clone Screenshot 2" /> </div>
+<div align="center"> <img src="https://github.com/Suryaprasath11/Insta-clone-app/images/home-page.png" width="300" alt="Insta Clone Screenshot 1" /> <img src="https://user-images.githubusercontent.com/your-image-here/screenshot2.png" width="300" alt="Insta Clone Screenshot 2" /> </div>
