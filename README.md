@@ -24,15 +24,23 @@
 ## 🧠 About The Project
 
 Insta-Clone is a **frontend UI replica of Instagram** built with ✨ **React & Vite**, using **static JSON datasets** for UI data like feed posts, stories, likes, comments, and user profiles.
+<div align="center">
+This project helps demonstrate:<br>
+✔ UI structure of a social feed <br>
+✔ Component-based React design  <br>
+✔ Modern frontend tooling with Vite <br> 
+✔ Lightweight demo setup (no backend required)  <br>
 
-This project helps demonstrate:
-✔ UI structure of a social feed  
-✔ Component-based React design  
-✔ Modern frontend tooling with Vite  
-✔ Lightweight demo setup (no backend required)  
+</div>
+
+--
+
+
+📸 Screenshots
+<div align="center"> <img src="https://github.com/Suryaprasath11/Insta-clone-app/blob/main/images/home-page.png" width="500" alt="Insta Clone Screenshot 1" /> <img src="https://github.com/Suryaprasath11/Insta-clone-app/blob/main/images/stories-page.png" width="500" alt="Insta Clone Screenshot 2" /> </div>
+
 
 ---
-
 ## 🛠 Technologies Used
 
 | Frontend | Build |
@@ -79,6 +87,4 @@ npm run dev
 
 It will open a live preview at a local development server.
 You’ll see the Instagram-style UI in your browser! 🔥
-
-📸 Screenshots
-<div align="center"> <img src="https://github.com/Suryaprasath11/Insta-clone-app/images/home-page.png" width="300" alt="Insta Clone Screenshot 1" /> <img src="https://user-images.githubusercontent.com/your-image-here/screenshot2.png" width="300" alt="Insta Clone Screenshot 2" /> </div>
+--- 
